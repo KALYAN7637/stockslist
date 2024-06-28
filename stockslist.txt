@@ -1,13 +1,34 @@
 Greaves Cotton Ltd      wait for the result stock is trading at 52weeks low
+SAKSOFT
 HAPPSTMNDS
-oracle financial services
-kpit
 zensartech      643   612
 persistent
-saksoft
-affle  1164 
+affle  1164
 
-hindcopp        wait for the results levels are 310 285 
+----------
+EV STOCKS
+---------
+hindcopp                        wait for the results levels are 310 285 
+graphite                        wait for the results 
+Servotech Power Systems Ltd
 
+
+
+
+
+----------------
+BANKING STOCKS
+----------------
 kotak bank    1715 and 1690
+hdfc bank     1574   1550
+
+
+---------------
+ENTERTAINMENT STOCK
+---------------
+zee                     stock is trading at 52 weeks low
+tips music              stock is trading at 52 weeks high
+
+
+   
 
